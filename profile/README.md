@@ -1,1 +1,1 @@
-![qwe](../img.jpg)
+![qwe](../image.png)
